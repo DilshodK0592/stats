@@ -1,5 +1,5 @@
-module github.com/DilshodK0592/stats
+module github.com/DilshodK0592/stats/v2
 
 go 1.17
 
-require github.com/DilshodK0592/bank v0.0.0-20211114180741-e46b5be64d1a // indirect
+require github.com/DilshodK0592/bank/v2 v2.0.0
